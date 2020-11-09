@@ -1,7 +1,7 @@
 # Customer-Segmentation-RFM-Analysis
 
 The first objective was to categorize the consumer base into appropriate customer segments. 
-The second was to predict the purchases for the current year and the next year based on the customers' first purchase. Given a dataset of transactions (Online Retail dataset from UCI Machine Learning repository) the segments are obtained, common patterns found and grouped into categories that can be later used by the marketer or retailer.
+The second was to predict the purchases for the current year and the next year based on the customers' first purchase. Given a dataset of transactions ([Online Retail dataset from UCI Machine Learning repository](https://archive.ics.uci.edu/ml/datasets/online+retail)) the segments are obtained, common patterns found and grouped into categories that can be later used by the marketer or retailer.
 
 ![Customer Segments](https://github.com/harini-ashok/Customer-Segmentation-RFM-Analysis/blob/main/images/11.png)
 
